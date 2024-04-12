@@ -1,4 +1,4 @@
-import { environment } from "src/environments/environment";
+import { environment } from "src/environments/environment.development";
 
 export const constants = {
   CURRENT_TOKEN: "CURRENT_TOKEN",
