@@ -1,5 +1,4 @@
 [build]
-    base = "ng-todo-list-app"
     command = "npm run build:prod"
     publish = "dist/"
 
