@@ -1,4 +1,4 @@
-# TodoList
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
-
+# Todo List App
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+## Repository created for deployment on Netlify 
+### https://kiwing11-ng-todo-list-app.netlify.app/
